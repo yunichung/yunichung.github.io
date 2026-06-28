@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "yuni chung",
+    "description": "",
+    "home_page_url": "https://yunichung.com",
+    "feed_url": "https://yunichung.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Yuni Chung"
+    },
+    "items": [
+    ]
+}
